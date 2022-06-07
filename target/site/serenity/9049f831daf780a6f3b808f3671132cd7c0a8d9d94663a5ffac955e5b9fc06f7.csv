@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories CRUD test","This will create a New Category","SUCCESS","2022-06-06T12:40:35.289+01:00[Europe/London]","0.0","8.09"
+"Categories CRUD test","Verify if the Category was added to the application","SUCCESS","2022-06-06T12:40:43.431+01:00[Europe/London]","0.0","0.12"
+"Categories CRUD test","Update the Category information","SUCCESS","2022-06-06T12:40:43.559+01:00[Europe/London]","0.0","0.17"
+"Categories CRUD test","Delete the product by ID","ERROR","2022-06-06T12:40:43.736+01:00[Europe/London]","0.0","0.53"
